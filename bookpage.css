@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.book-page-container {
+    background-color: #1b1b1b;
+    padding: 24px;
+}
+
+.heading1 {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 28px;
+}
+
+.Popularbook-content {
+    background-color: #e6f6ff;
+    border-radius: 8px;
+}
+
+.img {
+    width: 126px;
+    height: 180px;
+}
+
+.matter-about-book {
+
+    padding: 16px;
+}
+
+.Wings-of-Fire {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 14px;
+}
+
+.popularbook-matter {
+    font-family: "Bree Serif";
+    color: black;
+    font-size: 12px;
+}
+
+.popularbook-matter2 {
+    font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 8px;
+}
+
+.buttons {
+    font-weight: 500;
+    font-size:12px;
+}
+
+.heading2 {
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 20px;
+}
+
+.imgs {
+    width: 100px;
+    height: 150px;
+}
+
+.recommended-books-matter{
+    padding: 16px;
+}
+.heading3{
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 14px;
+}
+.matter3{
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    font-size: 12px;
+}
+
+.detailspage{
+    background-color: black;
+    padding: 28px; 
+}
+.imgs2{
+    
+    margin-bottom: 20px;
+}
+.heading4{
+    font-family: "Bree Serif";
+    color: white;
+    font-size: 20px;
+}
+.authorname{
+     font-family: "Bree Serif";
+    color: #183b56;
+    font-size: 12px;
+}
+.matters{
+    text-align:left;
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 14px;
+    font-weight: 100;
+}
+.button{
+    margin-left: 15px;
+    margin-right:5px;
+}
